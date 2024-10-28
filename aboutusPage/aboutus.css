@@ -1,0 +1,224 @@
+body {
+  background-color: white;
+  color: #119787;
+  font-family: Alnaseeb;
+  left: 0;
+  right: 0;
+}
+
+/* header style */
+header{
+    width: 1450px;
+    margin-left: 50px;
+
+}
+
+#log {
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+}
+
+#logo {
+  width: 150px;
+  height: 110px;
+  padding: 10px;
+}
+
+#text1 {
+  font-weight: bold;
+  padding-top: 20px;
+}
+
+#lin {
+  margin-left: 790px;
+  text-align: center;
+}
+
+.head {
+    width: 1515px;
+    margin-left: -50px;
+  background-color: white;
+  height: 110px;
+  padding-left: 100px;
+}
+
+.line {
+  display: inline-block;
+}
+.contain {
+  width: 700px;
+  height: 50px;
+  color: white;
+  background-color: #119787;
+  border-radius: 25px;
+  padding-left: 100px;
+  margin-left: 330px;
+}
+
+#logIn {
+  width: 150px;
+  height: 40px;
+  color: white;
+  background-color: #119787;
+  border-radius: 10px;
+  font-size: 13pt;
+  font-weight: bold;
+}
+
+.navnavbar-nav {
+  list-style-type: none;
+  padding: 10px;
+  display: flex;
+  gap: 50px;
+}
+
+.linkH {
+  color: white;
+  font-weight: bold;
+  font-size: 13pt;
+}
+
+.imgL {
+  width: 50px;
+  height: 50px;
+}
+
+.containS {
+  height: 500px;
+  background-image: url("imageAboutus/header4.png");
+}
+
+/* رؤيتنا style */
+
+.seeing {
+  margin: 50px;
+  margin-left: 100px;
+}
+
+#seeingP {
+  text-align: center;
+  font-weight: bold;
+  font-size: 20pt;
+}
+
+#seeingH {
+  text-align: center;
+  font-weight: bold;
+  font-size: 50pt;
+  color: #595959;
+  margin: 30px;
+  margin-top: 70px;
+}
+
+#imgsee {
+  width: 280px;
+  height: 280px;
+  margin-left: 50px;
+}
+
+/* مهمتنا style */
+
+#imgwork {
+  width: 450px;
+  height: 300px;
+  margin: 50px;
+  margin-left: 130px;
+}
+
+.working {
+  padding: 50px;
+}
+
+/* team style  */
+
+.imgteam {
+  width: 300px;
+  height: 300px;
+  padding: 50px;
+}
+
+.team {
+  padding: 70px;
+  padding-bottom: 50px;
+}
+
+.nameh {
+  color: #119787;
+  font-weight: bold;
+  text-align: center;
+  font-size: 30pt;
+  padding-top: 0px;
+}
+
+.teamp {
+  text-align: center;
+  font-weight: bold;
+  font-size: 20pt;
+  color: #595959;
+}
+
+.teamcard {
+  background-color: #f3f1f1;
+  border-radius: 20px;
+  width: 300px;
+  height: 450px;
+  margin: 20px;
+  margin-left: 50px;
+}
+
+/* footer style */
+
+.foot {
+  background-image: url("../HomePage/imageHome/footer.png");
+  color: white;
+  height: 420px;
+  text-align: center;
+}
+
+#linehr {
+  padding-top: 20px;
+  font-weight: bold;
+}
+
+#end {
+  font-size: 15pt;
+}
+
+h3 {
+  padding-top: 50px;
+  font-weight: bold;
+  font-size: 20pt;
+}
+
+#logo1 {
+  width: 110px;
+  height: 110px;
+}
+
+#text3 {
+  font-weight: bold;
+}
+
+.alink {
+  color: white;
+  font-weight: bold;
+  font-size: 15pt;
+}
+
+.alink:hover {
+  color: white;
+  text-decoration-line: none;
+}
+
+.text {
+  color: white;
+  font-weight: bold;
+  font-size: 15pt;
+}
+
+.imgico {
+  width: 50px;
+  height: 50px;
+  margin-top: 10px;
+}

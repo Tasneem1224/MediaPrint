@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Alnaseeb;
+  background-image: url(imagesignup/bg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+#logo {
+  width: 150px;
+  height: 110px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+h1 {
+  color: #119787;
+  font-size: 50px;
+}
+
+.sign {
+  width: 600px;
+  height: 1050px;
+  border-radius: 80px;
+  box-shadow: 0 0 10px 0 rgb(0, 0, 0, 0.3);
+  background: #fff;
+  padding: 50px;
+  margin: 8% auto 8%;
+  text-align: center;
+}
+
+input {
+  border-radius: 30px;
+  padding: 10px;
+  margin: 10px 0;
+  width: 80%;
+  border: 1px solid #999;
+  outline: none;
+  text-align: right;
+  font-family: Alnaseeb;
+  font-size: larger;
+}
+
+form {
+  padding-top: 20px;
+  font-size: larger;
+}
+
+table {
+  width: 500px;
+  padding-left: 120px;
+}
+
+#lab {
+  font-size: 30px;
+  color: #545353;
+}
+
+.Gender {
+  color: #119787;
+}
+
+#accept {
+  text-align: right;
+  color: #999;
+  padding-right: 75px;
+}
+
+hr {
+  width: 80%;
+}
+
+.inpsup {
+  color: rgb(255, 255, 255);
+  background-color: #119787;
+  width: 30%;
+  padding: 5px;
+  border-radius: 30px;
+  font-size: 30px;
+  margin: 10px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-family: Alnaseeb;
+  margin-top: 50px;
+  height: 50px;
+  text-align: center;
+}

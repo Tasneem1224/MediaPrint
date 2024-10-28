@@ -1,0 +1,191 @@
+body {
+  background-color: white;
+  color: #119787;
+  font-family: Alnaseeb;
+  left: 0;
+  right: 0;
+}
+
+/* header style */
+header {
+  width: 1450px;
+  margin-left: 50px;
+}
+
+#log {
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+}
+
+#logo {
+  width: 150px;
+  height: 110px;
+  padding: 10px;
+}
+
+#text1 {
+  font-weight: bold;
+  padding-top: 20px;
+}
+
+#lin {
+  margin-left: 790px;
+  text-align: center;
+}
+
+.head {
+  width: 1515px;
+  margin-left: -50px;
+  background-color: white;
+  height: 110px;
+  padding-left: 100px;
+}
+
+.line {
+  display: inline-block;
+}
+.contain {
+  width: 700px;
+  height: 50px;
+  color: white;
+  background-color: #119787;
+  border-radius: 25px;
+  padding-left: 100px;
+  margin-left: 330px;
+  font-family: Alnaseeb;
+}
+
+#logIn {
+  width: 150px;
+  height: 40px;
+  color: white;
+  background-color: #119787;
+  border-radius: 10px;
+  font-size: 13pt;
+  font-weight: bold;
+  font-family: Alnaseeb;
+}
+
+.navnavbar-nav {
+  list-style-type: none;
+  padding: 10px;
+  display: flex;
+  gap: 50px;
+}
+
+.linkH {
+  color: white;
+  font-size: 13pt;
+  font-weight: bold;
+  font-family: Alnaseeb;
+}
+
+.imgL {
+  width: 50px;
+  height: 50px;
+}
+
+.containS {
+  height: 500px;
+  background-image: url("header5.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  font-family: Alnaseeb;
+}
+
+/* section Questions style */
+
+.linee {
+  color: #119787;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 20pt;
+  font-family: Alnaseeb;
+}
+
+.QuestionsC {
+  margin: 50px;
+  font-family: Alnaseeb;
+}
+
+.Questionsh {
+  text-align: center;
+  font-weight: bold;
+  font-size: 35pt;
+  color: #119787;
+}
+
+.Questionsp {
+  text-align: center;
+  font-weight: bold;
+  font-size: 15pt;
+  color: black;
+  margin-top: 20px;
+}
+
+/* footer style */
+
+.foot {
+  background-image: url("../HomePage/imageHome/footer.png");
+  color: white;
+  height: 420px;
+  text-align: center;
+  font-family: Alnaseeb;
+}
+
+#linehr {
+  padding-top: 20px;
+  font-weight: bold;
+  font-family: Alnaseeb;
+}
+
+#end {
+  font-size: 15pt;
+  font-family: Alnaseeb;
+}
+
+h3 {
+  padding-top: 50px;
+  font-weight: bold;
+  font-size: 20pt;
+  font-family: Alnaseeb;
+}
+
+#logo1 {
+  width: 110px;
+  height: 110px;
+}
+
+#text3 {
+  font-weight: bold;
+  font-family: Alnaseeb;
+}
+
+.alink {
+  color: white;
+  font-weight: bold;
+  font-size: 15pt;
+  font-family: Alnaseeb;
+}
+
+.alink:hover {
+  color: white;
+  text-decoration-line: none;
+  font-family: Alnaseeb;
+}
+
+.text {
+  color: white;
+  font-weight: bold;
+  font-size: 15pt;
+  font-family: Alnaseeb;
+}
+
+.imgico {
+  width: 50px;
+  height: 50px;
+  margin-top: 10px;
+  font-family: Alnaseeb;
+}

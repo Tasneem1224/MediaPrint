@@ -1,0 +1,100 @@
+/* header style */
+body {
+    color: #119787;
+    font-family: Alnaseeb;
+    left: 0;
+    right: 0;
+    background-image: url("imageLogin/bg.jpg");
+    background-color: #f3f1f1;
+    background-position: center;
+}
+
+
+
+/* form login style section ..... */
+
+
+#logo {
+    width: 150px;
+    height: 110px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.hlog {
+    color: #119787;
+    font-size: 50px;
+}
+
+#im {
+    width: 40px;
+    height: 40px;
+    padding-left: 115px;
+}
+
+
+.sign {
+    width: 600px;
+    height: 700px;
+    border-radius: 80px;
+    box-shadow: 0 0 10px 0 rgb(0, 0, 0, 0.3);
+    background: #fff;
+    padding: 50px;
+    margin: 8% auto 8%;
+    text-align: center;
+
+}
+
+
+
+input {
+
+    border-radius: 30px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 80%;
+    border: 1px solid #999;
+    outline: none;
+    text-align: right;
+    font-family: Alnaseeb;
+    font-size: larger;
+}
+
+form {
+    padding-top: 20px;
+    font-size: larger;
+}
+
+#forget {
+    text-align: right;
+    color: #484848;
+    padding-right: 60px;
+}
+
+hr {
+    width: 80%;
+}
+
+button {
+    color: rgb(255, 255, 255);
+    background-color: #119787;
+    width: 30%;
+    padding: 5px;
+    border-radius: 30px;
+    font-size: 30px;
+    margin: 10px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-family: Alnaseeb;
+    margin-top: 50px;
+}
+
+#create {
+    font-size: 30px;
+    color: #484848;
+}
+
+#li {
+    color: #119787;
+}
